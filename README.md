@@ -5,7 +5,6 @@
 
 Inspired by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), powered by the [solved.ac API](https://solved.ac/).
 
-⚠️ *This project is a high-end customized version with Glassmorphism and Neon Glow effects.*
 
 ![Preview](https://baekjoon-widget.vercel.app/api?name=skrrms063312&theme=ocean&lang=java)<br>
 *(💡 위 이미지는 예시입니다. 배포 후 자신의 Vercel 도메인으로 주소를 변경해주세요!)*
@@ -18,11 +17,10 @@ Inspired by [github-readme-stats](https://github.com/anuraghazra/github-readme-s
 기존의 평범한 뱃지를 넘어, **Glassmorphism(유리 질감)**과 **Neon Glow(네온 발광)** 효과를 적용하여 개발자의 알고리즘 성취도를 한층 더 돋보이게 만듭니다.
 
 ### ✨ Key Features
-* **💎 Glassmorphism & Neon UI**: 화려하고 입체적인 하이엔드 디자인.
 * **🔥 Dynamic Progress Bar**: 다음 티어까지 남은 레이팅(Rating) 진행도를 원형 게이지로 직관적으로 보여줍니다.
-* **🏷️ Auto Language Badge**: API를 통해 가장 많이 푼 주력 언어를 자동 추출하여 빛나는 캡슐 뱃지로 표시합니다. (수동 설정 가능)
+* **🏷️ Language Badge**: 가장 많이 푼 주력 언어를 빛나는 캡슐 뱃지로 표시합니다. (수동 설정)
 * **📏 Responsive Layout**: 닉네임이나 티어 이름이 길어져도 UI가 깨지지 않는 방어 로직(반응형 폰트 리사이징) 적용.
-
+* **🕸️ Difficulty Radar Chart**: 해결한 문제들의 티어별(B, S, G, P, D, R) 비중을 분석하여, 사용자의 주력 난이도를 육각형 레이더 차트로 직관적으로 표시합니다.
 ---
 
 ## 🛠 Usage
