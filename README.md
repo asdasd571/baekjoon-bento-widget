@@ -7,7 +7,7 @@ Inspired by [github-readme-stats](https://github.com/anuraghazra/github-readme-s
 
 ⚠️ *This project is a high-end customized version with Glassmorphism and Neon Glow effects.*
 
-![Preview](https://your-vercel-domain.vercel.app/api?name=skrrms063312)
+![Preview](https://baekjoon-widget.vercel.app/api?name=skrrms063312&theme=ocean&lang=java)<br>
 *(💡 위 이미지는 예시입니다. 배포 후 자신의 Vercel 도메인으로 주소를 변경해주세요!)*
 
 ---
